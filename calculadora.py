@@ -1,5 +1,4 @@
 # Calculadora em Python
-# Atividade prática - Disciplina Coding - UNINASSAU Aracaju
 
 
 def mostrar_menu():
